@@ -18,9 +18,10 @@ Forked myself to incorporate a number of forks.
 
 ###Links
 
-- Master page [http://www.signal11.us/oss/m-stack/]
+- Master Page [http://www.signal11.us/oss/m-stack/]
 - API Documentation [http://www.signal11.us/oss/m-stack/m-stack/html/group__public__api.html]
 - README.txt [https://raw.githubusercontent.com/adilinden/m-stack/master/README.txt]
+- Polulo Instructions [https://www.pololu.com/docs/0J62/8]
 
 ###Maintain
 
