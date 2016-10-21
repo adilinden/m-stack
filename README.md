@@ -28,7 +28,7 @@ This is just a note to myself so I don't forget how to do this.
 
 1. Clone the fork
 ```
-git clone git@github.com:adilinden/m-stack.git
+git clone -o github git@github.com:adilinden/m-stack.git
 cd m-stack
 ```
 2. Create this `README.md` file
@@ -65,3 +65,22 @@ git fetch todbot
 git checkout -b todbot 1c51713
 git merge todbot/master
 ```
+4. All of the remotes.
+```
+adi@Nebulous: git remote -v
+d235j   https://github.com/d235j/m-stack.git (fetch)
+d235j   https://github.com/d235j/m-stack.git (push)
+github  git@github.com:adilinden/m-stack.git (fetch)
+github  git@github.com:adilinden/m-stack.git (push)
+hughsie https://github.com/hughsie/m-stack.git (fetch)
+hughsie https://github.com/hughsie/m-stack.git (push)
+origin  ssh://git@home/git/forked-github/m-stack.git (fetch)
+origin  ssh://git@home/git/forked-github/m-stack.git (push)
+pololu  https://github.com/pololu/m-stack.git (fetch)
+pololu  https://github.com/pololu/m-stack.git (push)
+todbot  https://github.com/todbot/m-stack.git (fetch)
+todbot  https://github.com/todbot/m-stack.git (push)
+upstream    https://github.com/signal11/m-stack.git (fetch)
+upstream    https://github.com/signal11/m-stack.git (push)
+```
+
