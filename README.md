@@ -1,19 +1,19 @@
 ## M-Stack: Free USB Stack for PIC 16F, 18F, 24F, and 32MX Microcontrollers
 
-Forked myself to incorporate a number of forks. 
+Forked to incorporate a number of 3rd party forks. 
 
 ###Branches
 
-- adilinden, my notes
-- master [signal11/m-stack](https://github.com/signal11/m-stack),  
+- [adilinden](https://github.com/adilinden/m-stack/tree/adilinden), my notes
+- [master](https://github.com/adilinden/m-stack/tree/master) - source is [signal11/m-stack](https://github.com/signal11/m-stack),  
  the original M-Stack from Signal 11.
-- pololu [pololu/m-stack](https://github.com/pololu/m-stack),  
+- [pololu](https://github.com/adilinden/m-stack/tree/pololu) - source is [pololu/m-stack](https://github.com/pololu/m-stack),  
  added support for for the PIC18F25K50, PIC18F45K50, and the P-Star 25K50 Micro.
-- d235j [d235j/m-stack](https://github.com/d235j/m-stack),  
+- [d235j](https://github.com/adilinden/m-stack/tree/d235j) - source is [d235j/m-stack](https://github.com/d235j/m-stack),  
  added support for the PIC18F87J50.
-- hughsie [hughsie/m-stack](https://github.com/hughsie/m-stack),  
+- [hughsie](https://github.com/adilinden/m-stack/tree/hughsie) - source is [hughsie/m-stack](https://github.com/hughsie/m-stack),  
  added support for DFU1.1.
-- todbot [todbot/m-stack](https://github.com/todbot/m-stack),  
+- [todbot](https://github.com/adilinden/m-stack/tree/todbot) - source is [todbot/m-stack](https://github.com/todbot/m-stack),  
  added support for PIC16F1455.
 
 ###Links
